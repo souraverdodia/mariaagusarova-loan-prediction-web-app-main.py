@@ -5,3 +5,5 @@ pandas
 scikit-learn
 streamlit
 plotly
+base64
+pickle
