@@ -1,8 +1,8 @@
+scikit-learn
 shap
 joblib
 numpy
 pandas
-scikit-learn
 streamlit
 plotly
 pickle
